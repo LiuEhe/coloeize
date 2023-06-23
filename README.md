@@ -3,69 +3,50 @@
 
  Colorize
 
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][https://github.com/LiuEhel]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
+  <a href="https://github.com/LiuEhe/colorize/edit/main/README.md">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">"照片上色</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
-    <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
-    ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
+    这是一个简单程序，通过调用接口，来实现照片上色。
+    调用接口的项目：[DeOldify](https://github.com/jantic/DeOldify)
   </p>
 
 </p>
-
-
- 本篇README.md面向开发者
  
-## 目录
+## 使用
 
-- [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
-- [文件目录说明](#文件目录说明)
-- [开发的架构](#开发的架构)
-- [部署](#部署)
-- [使用到的框架](#使用到的框架)
-- [贡献者](#贡献者)
-  - [如何参与开源项目](#如何参与开源项目)
-- [版本控制](#版本控制)
-- [作者](#作者)
-- [鸣谢](#鸣谢)
-
-### 上手指南
-
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
+1.请将本代码git clone 
+2.跳转至https://github.com/jantic/DeOldify，同时git clone
+3.将1.克隆下来的**colorize_gradio_app.py**，放置2.的根目录下。
+4.运行 **colorize_gradio_app.py**
 
 
 
-###### 开发前的配置要求
 
-1. xxxxx x.x.x
-2. xxxxx x.x.x
 
-###### **安装步骤**
+### 环境配置
+
+1.创建虚拟环境
+```
+conda create --name colorize_env python=3.10
+```       
+2.激活环境
+```
+conda activate colorize_env
+```
+3.安装所需包
+```
+pip install gradio scipy fastprogress torch torchvision opencv-python ffmpeg ffmpeg-python yt-dlp scikit-image ipython
+```
+
+##### **注意事项**
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
