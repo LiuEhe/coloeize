@@ -1,9 +1,7 @@
-# Colorize
-
 
 # ProjectName
 
-ProjectName and Description
+ Colorize
 
 <!-- PROJECT SHIELDS -->
 
