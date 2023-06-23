@@ -12,9 +12,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">"照片上色</h3>
+  <h3 align="center">照片上色</h3>
   <p align="center">
     这是一个简单程序，通过调用接口，来实现照片上色。
+   
     调用接口的项目：[DeOldify](https://github.com/jantic/DeOldify)
   </p>
 
@@ -23,8 +24,11 @@
 ## 使用
 
 1.请将本代码git clone 
+
 2.跳转至https://github.com/jantic/DeOldify，同时git clone
+
 3.将1.克隆下来的**colorize_gradio_app.py**，放置2.的根目录下。
+
 4.运行 **colorize_gradio_app.py**
 
 
