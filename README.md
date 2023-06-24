@@ -16,7 +16,7 @@
   <p align="center">
     这是一个简单程序，通过调用接口，来实现照片上色。
     调用接口的项目： 
-      [DeOldify](https://github.com/jantic/DeOldify)
+      [DeOldify](https://github.com//jantic//DeOldify)
   </p>
 
 </p>
