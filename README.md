@@ -15,7 +15,7 @@
   <h3 align="center">照片上色</h3>
   <p align="center">
     这是一个简单程序，通过调用接口，来实现照片上色。
-    调用接口的项目： [DeOldify](https://github.com/jantic/DeOldify)
+    调用接口的项目： -[DeOldify](https://github.com/jantic/DeOldify)
       
   </p>
 
