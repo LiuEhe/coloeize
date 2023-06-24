@@ -1,4 +1,4 @@
-
+![input_image](https://github.com/LiuEhe/colorize/assets/126216347/1689e6ac-b6d5-45df-b248-b6ae15e621e0)
 # ProjectName
 
  Colorize
@@ -52,36 +52,21 @@ pip install gradio scipy fastprogress torch torchvision opencv-python ffmpeg ffm
 
 ##### **注意事项**
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. 请认真阅读参考，以免下载错误
+2. 此项目仅用于参考学习，无任何盈利目的
 
-```sh
-git clone https://github.com/shaojintian/Best_README_template.git
-```
 
 ### 文件目录说明
-eg:
 
 ```
-filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
-├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
+colorize 
+├── colorize_gradio_app.py
+├── ''''''
+
 
 ```
 
+![image](https://github.com/LiuEhe/colorize/assets/126216347/1a54d0d1-92b7-4b7f-9526-f11e298b325e)
 
 
 ### 鸣谢
