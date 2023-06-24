@@ -25,7 +25,7 @@
 
 1.请将本代码git clone 
 
-2.跳转至https://github.com/jantic/DeOldify，同时git clone
+2.跳转至https://github.com/jantic/DeOldify  ,同时git clone
 
 3.将1.克隆下来的**colorize_gradio_app.py**，放置2.的根目录下。
 
